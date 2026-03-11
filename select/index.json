@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Stay The Night（feat. Hayley Williams）",
+  "base_artist": "Zedd",
+  "createdAt": "2026-03-11T06:32:35.803977Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Stay the Night feat. Hayley Williams",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/01_Stay_the_Night_feat._Hayley_Williams_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/02_Stay_The_Night_(feat._Hayley_Williams)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/03_Stay_The_Night_(feat._Hayley_Williams_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Stay The Night feat Hayley Williams",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/04_Stay_The_Night_feat_Hayley_Williams_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/05_Stay_The_Night_(feat._Hayley_Williams_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/06_Stay_The_Night_(feat._Hayley_Williams)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Stay The Night Feat. Hayley Williams",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/07_Stay_The_Night_Feat._Hayley_Williams_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Stay The Night ( Feat. Hayley Williams)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/08_Stay_The_Night_(_Feat._Hayley_Williams)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stay The Night (Feat. Hayley Williams Of Paramore)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/09_Stay_The_Night_(Feat._Hayley_Williams_Of_Paramore)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay the Night (feat. Hayley Williams)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/10_Stay_the_Night_(feat._Hayley_Williams)_Zedd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams)",
+      "artist": "ZEDD",
+      "has_synced": true,
+      "path": "select/11_Stay_The_Night_(feat._Hayley_Williams)_ZEDD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams)",
+      "artist": "Zedd, Hayley Williams",
+      "has_synced": true,
+      "path": "select/12_Stay_The_Night_(feat._Hayley_Williams)_Zedd,_Hayley_Williams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Stay The Night (feat. Hayley Williams Of Paramore)",
+      "artist": "Zedd",
+      "has_synced": true,
+      "path": "select/13_Stay_The_Night_(feat._Hayley_Williams_Of_Paramore)_Zedd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Stay The Night(Feat. Hayley Williams)",
+      "artist": "Zedd",
+      "has_synced": false,
+      "path": "select/pl_01_Stay_The_Night(Feat._Hayley_Williams)_Zedd.txt"
+    }
+  ]
+}
